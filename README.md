@@ -40,3 +40,22 @@ A modern, user-friendly **Attendance Management System** that leverages **Facial
 - **Database:** CSV / Firebase
 - **Location Services:** geopy, requests (for IP-based location or GPS)
 - **Deployment:** Standalone Desktop App (.exe with PyInstaller)
+
+---
+
+## 🤝 Contribution
+
+Pull requests are welcome! If you’d like to suggest new features or improvements, feel free to open an issue.
+
+---
+
+## 📃 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+---
+
+## ✨ Created with ❤️ by Sanskar Singh
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sanskar9929/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&style=flat-square)](https://github.com/ishanuchaudhary)
